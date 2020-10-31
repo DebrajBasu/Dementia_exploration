@@ -12,14 +12,13 @@ NACC provides a valuable resource for both exploratory and critical Alzheimer's 
 
 This project is more of exploration and visualization.
 Some of my initial understanding and motivation are summarized below:
-
-•    Alzheimer's is a type of dementia that causes problems with memory, thinking, and behavior. 
-•    Symptoms usually develop slowly and get worse over time, becoming severe enough to interfere with daily tasks. 
-•    Alzheimer's disease accounts for 60 percent to 80 percent of dementia cases.  
-o    The NACC data count for AD is approximately 70%.
-•    Alzheimer disease (AD) is mainly characterized by progressive cognitive impairment. 
-•    There is no precise and reliable biomarkers or any clinical signs and symptoms for early disease diagnosis. 
-•    However, the research community is investing the time and energy to find out precise instances and markers that may have triggered AD.
+ - Alzheimer's is a type of dementia that causes problems with memory, thinking, and behavior
+ - Symptoms usually develop slowly and get worse over time, becoming severe enough to interfere with daily tasks. 
+ - Alzheimer's disease accounts for 60 percent to 80 percent of dementia cases
+ - The NACC data count for AD is approximately 70%.
+ - Alzheimer disease (AD) is mainly characterized by progressive cognitive impairment. 
+ - There is no precise and reliable biomarkers or any clinical signs and symptoms for early disease diagnosis
+ - However, the research community is investing the time and energy to find out precise instances and markers that may have triggered AD.
 
 The AD assessment is not only a cognitive assessment. Dementia is a state of cognitive decline enough to cause functional problems; thus, describing function is a critical component. As with cognition, functional assessment is challenging, particularly in an international, cross-cultural context.
 The biomedical perspective is valuable but not comprehensive to understand the early signs and symptoms of AD.
