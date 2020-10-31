@@ -28,17 +28,20 @@ Dementia 'models' for research
 Dementia is predominantly a disease of later life with a pathogenesis that may span decades. Thus, clinical studies may require protracted follow-up to assess outcomes of interest. One could argue that the focus should be on unselected older adults. However, older adults bring inherent 'noise' in terms of comorbidity, frailty, polypharmacy and so on, as well as the problem of attrition due to death for non-dementia causes. Conversely, if we restrict studies to 'healthy' adults, then results have limited external validity.
 
 'Pre-dementia' states and research
-•    Between asymptomatic pathological change and overt disease, there may be a period of more subtle cognitive change that is not sufficient to meet diagnostic criteria for the dementia syndrome.
-•    The research is challenging because dementia is a multistage, multi-mechanism set of aging brain pathologies that unfolds over many years. 
-•    Prevention trials must recruit a large cohort of individuals at high risk for dementia, target that risk with a potent intervention, and then follow the high-risk cohort on protocolized treatment for many years to detect the intervention's effects on biomarker or clinical outcome trajectories.
+•	Between asymptomatic pathological change and overt disease, there may be a period of more subtle cognitive change that is not sufficient to meet diagnostic criteria for the dementia syndrome.
+•	The research is challenging because dementia is a multistage, multi-mechanism set of aging brain pathologies that unfolds over many years. 
+•	Prevention trials must recruit a large cohort of individuals at high risk for dementia, target that risk with a potent intervention, and then follow the high-risk cohort on protocolized treatment for many years to detect the intervention's effects on biomarker or clinical outcome trajectories.
+
 
 Primary (upstream) prevention is known to provide more value, over a longer time frame, than secondary (screening and early detection) and tertiary (mitigation once present) prevention.
 
 At this stage, I am exploring the data sets from both ADNI and NACC. 
 
 Since different neuro-psychological and neuro-pathological tests can quantify the cognitive impairment, but only after the first visit, the impact of the social-economic background, level of education, high cognitive merit, employment status and durations,  lifestyle features (smoking, alcohol) can help to build a regression model to look back where all the cognitive impairment have kicked in. 
-•    Different backgrounds can have different trajectories.
-•    Based on the outcome of the study, we will be able to propose personalized care for AD patients.
-•    The overarching research idea isto cluster AD patients based on all the available features or markers and 
-o    get a multi-dimensional understanding of how the human brain develops and degenerate under different circumstances and 
-o    what kind of intervention can help people live healthy both physically and cognitively.
+•	Different backgrounds can have different trajectories.
+•	Based on the outcome of the study, we will be able to propose personalized care for AD patients.
+•	The overarching research idea is
+o	   to cluster AD patients based on all the available features or markers and 
+o	   get a multi-dimensional understanding of how the human brain develops and degenerate under different circumstances and 
+o	   what kind of intervention can help people live healthy both physically and cognitively.
+
